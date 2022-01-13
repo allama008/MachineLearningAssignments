@@ -14,7 +14,6 @@ University of Texas at Dallas
 ## Homework 3
 ### Tree Classifiers, K-means Clustering on Images
   - Kindly find the problem description of Homework 3 [here](/HW3/hw3.pdf).
-  - Kindly find the Readme file of Homework 3.
 
 ## Homework 4
 ### Tree Bayesian Networks, Mixture of Tree Bayesian Networks using EM, Mixture of Tree Bayesian Networks using Random Forests
