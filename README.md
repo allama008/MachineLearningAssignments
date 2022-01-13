@@ -1,6 +1,5 @@
 # Machine Learning Assignments
-## University of Texas at Dallas
-## Vibhav Gogate
+University of Texas at Dallas  
 
 ## Homework 1
 ### Naive Bayes and Logisitic Regression for Text Classification
